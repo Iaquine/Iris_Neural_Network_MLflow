@@ -21,7 +21,7 @@ Cada linha do dataset representa uma flor. O objetivo é prever a espécie da fl
 ## Capturas de Tela
 
 ### Interface do MLflow com Execuções
-![Experimentos MLflow](Captura%20de%20Tela%202025-06-28%20às%2016.11.32.png)
+![Experimentos MLflow]([Captura%20de%20Tela%202025-06-28%20às%2016.11.32.png](https://github.com/Iaquine/Iris_Neural_Network_MLflow/blob/master/img1.png))
 
 ### Logs do Terminal com Resultados
 ![Execução no Terminal](Captura%20de%20Tela%202025-06-28%20às%2016.12.23.png)
