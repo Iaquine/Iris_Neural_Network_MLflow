@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/iaquine/Documents/GITHUB/Iris_Neural_Network_MLflow/mlruns/986826113005523282/287b7d1037734b8bbc1bc65e0717d958/artifacts
+end_time: 1751137556758
+entry_point_name: ''
+experiment_id: '986826113005523282'
+lifecycle_stage: active
+run_id: 287b7d1037734b8bbc1bc65e0717d958
+run_name: run_layers_(50,)
+run_uuid: 287b7d1037734b8bbc1bc65e0717d958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751137545410
+status: 3
+tags: []
+user_id: iaquine
